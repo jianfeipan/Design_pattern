@@ -1,0 +1,8 @@
+package stretegy;
+
+public class Canfly implements Flyable{
+
+	public void fly() {
+		System.out.println("I can fly!");		
+	}	
+}

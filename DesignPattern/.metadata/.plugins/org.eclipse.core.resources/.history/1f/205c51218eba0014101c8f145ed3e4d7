@@ -1,0 +1,5 @@
+package stretegy;
+
+public interface Flyable {
+	public void fly();
+}
