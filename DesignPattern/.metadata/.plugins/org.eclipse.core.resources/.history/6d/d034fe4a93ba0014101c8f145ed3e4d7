@@ -1,0 +1,20 @@
+package observer;
+import java.util.ArrayList;
+
+public class StockGraber implements Graber{
+	private ArrayList<Observerable> observers;
+	public void register(Observerable observer) {
+		observers.add(oberver);
+	}
+
+	public void unregister(Observerable observer) {
+		
+		
+	}
+
+	public void notifyprice() {
+		
+		
+	}
+
+}

@@ -1,0 +1,5 @@
+package abstrectFactory;
+
+public class Senderable {
+
+}

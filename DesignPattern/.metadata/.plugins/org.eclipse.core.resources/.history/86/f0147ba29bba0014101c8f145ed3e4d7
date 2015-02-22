@@ -1,0 +1,7 @@
+package builder;
+
+public interface RobotPlan {
+	public void setHead();
+	public void setArms();
+	public void setLegs();
+}

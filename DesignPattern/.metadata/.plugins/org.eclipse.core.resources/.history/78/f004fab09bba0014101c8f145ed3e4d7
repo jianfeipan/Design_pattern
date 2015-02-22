@@ -1,0 +1,20 @@
+package builder;
+
+public class Robot implements RobotPlan	{
+
+	public void setHead(String head) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setArms(String arms) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setLegs(String legs) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

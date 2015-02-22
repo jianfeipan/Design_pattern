@@ -1,0 +1,18 @@
+package prototype;
+
+public class Dog extends Animal implements Prototype{
+	public Dog(String name){
+		this.name = name;
+	}
+
+	@Override
+	public void cry() {
+		System.out.println("wang wang!");
+		
+	}
+
+	public Animal makecopye() {
+		
+		return new Dog(this.name);
+	}
+}
