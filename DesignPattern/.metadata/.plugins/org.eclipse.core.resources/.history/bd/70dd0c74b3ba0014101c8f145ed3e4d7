@@ -1,8 +1,0 @@
-package prototype;
-
-public class PrototypeTest {
-	public static void main(String[] args){
-		Dog dog1=new Dog("dog1");
-		Dog dog2=dog1.makecopye();
-	}
-}

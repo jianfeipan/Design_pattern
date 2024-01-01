@@ -1,7 +1,0 @@
-package stretegy;
-
-public abstract class Animal {
-	String name;
-	
-
-}

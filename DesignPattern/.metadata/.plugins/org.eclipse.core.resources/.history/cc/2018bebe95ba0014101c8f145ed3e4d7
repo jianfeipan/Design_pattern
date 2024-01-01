@@ -1,9 +1,0 @@
-package factory;
-
-public class BigUFOEnermyShip extends UFOEnermyShip{
-	public BigUFOEnermyShip{
-		this.setName("BigUFOShip");
-		this.setLifeValue(3000);
-		this.setDamage(300);
-	}
-}

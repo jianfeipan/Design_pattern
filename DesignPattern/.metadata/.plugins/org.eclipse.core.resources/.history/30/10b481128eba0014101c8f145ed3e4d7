@@ -1,9 +1,0 @@
-package stretegy;
-
-public class Canotfly implements Flyable{
-
-	public void fly() {
-		System.out.println("sorry, icannot fly");
-	}
-	
-}
